@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meu-linktree/static/css/main.aab861cf.css",
+    "main.js": "/meu-linktree/static/js/main.0a2b3bfa.js",
+    "static/js/453.4f195bd6.chunk.js": "/meu-linktree/static/js/453.4f195bd6.chunk.js",
+    "static/media/12225935.png": "/meu-linktree/static/media/12225935.5ce397ff2d65db87b00a.png",
+    "index.html": "/meu-linktree/index.html",
+    "main.aab861cf.css.map": "/meu-linktree/static/css/main.aab861cf.css.map",
+    "main.0a2b3bfa.js.map": "/meu-linktree/static/js/main.0a2b3bfa.js.map",
+    "453.4f195bd6.chunk.js.map": "/meu-linktree/static/js/453.4f195bd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab861cf.css",
+    "static/js/main.0a2b3bfa.js"
+  ]
+}
